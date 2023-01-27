@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T08:43:06.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.12" etag="dC2b1ttKApwr8dqCqT4z" type="github"><diagram name="Page-1" id="5EKWdC6YIov1yB9goPKF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-27T08:53:34.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HHmH35mZZl8-4bedM2Pr" version="20.8.12" type="github">
+  <diagram name="Page-1" id="5EKWdC6YIov1yB9goPKF">
+    <mxGraphModel dx="880" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-1" value="PUMP" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="560" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-2" value="ARDUINO UNO R3" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.logic_gates.qfp_ic;labelNames=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,a1,b1,c1,d1,e1,f1,g1,h1,i1,j1,k1,l1,m1,n1;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="340" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="60" y="55" width="160" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-9" value="Pump" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="115" y="125" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="40" y="325" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-13" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="70" y="330" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-14" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;fontStyle=1;direction=west;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="160" y="330" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=170;entryPerimeter=0;" edge="1" parent="pCSEFE01s1h3EzQRT2l_-1" target="pCSEFE01s1h3EzQRT2l_-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.5" y="320" as="sourcePoint" />
+            <mxPoint x="140" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-16" value="RF Module" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="100" y="390" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-17" value="Transmiiter" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="50" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-18" value="Receiver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="150" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-19" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil_2;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="220" y="85" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-20" value="Relay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="255" y="105" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="390" y="340" width="134.4" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-23" value="Pump" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="435" y="415" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-25" value="M" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=ellipse;aspect=fixed;fontSize=35;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="430" y="355" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-26" value="M" style="verticalLabelPosition=middle;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;strokeWidth=1;shape=ellipse;aspect=fixed;fontSize=35;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="115" y="65" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-27" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_coil_2;direction=south;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="420" y="250" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCSEFE01s1h3EzQRT2l_-28" value="Relay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="pCSEFE01s1h3EzQRT2l_-1">
+          <mxGeometry x="430" y="275" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
