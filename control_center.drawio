@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T09:30:48.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QKKPDUmsgdXWz-pfQxyM" version="20.8.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T09:31:48.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1GeYAXSiHtiYepQWucHs" version="20.8.12" type="github">
   <diagram name="Page-1" id="AnMOG2GN0dtqPrZKWgCM">
     <mxGraphModel dx="978" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="VSblfYa6hqs7yA2SXt9l-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
           <mxGeometry x="70" y="90" width="39.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;direction=west;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="160" y="90" width="43.45" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
