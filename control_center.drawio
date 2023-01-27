@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T09:31:48.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1GeYAXSiHtiYepQWucHs" version="20.8.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T09:42:20.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Phy-9EJ2Kq9vv7qgnriv" version="20.8.12" type="github">
   <diagram name="Page-1" id="AnMOG2GN0dtqPrZKWgCM">
     <mxGraphModel dx="978" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,13 +11,46 @@
           <mxGeometry x="305" y="150" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="VSblfYa6hqs7yA2SXt9l-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
-          <mxGeometry x="50" y="80" width="180" height="70" as="geometry" />
+          <mxGeometry x="40" y="80" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="VSblfYa6hqs7yA2SXt9l-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
-          <mxGeometry x="70" y="90" width="39.5" height="50" as="geometry" />
+          <mxGeometry x="60" y="90" width="39.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VSblfYa6hqs7yA2SXt9l-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;direction=west;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
-          <mxGeometry x="160" y="90" width="43.45" height="55" as="geometry" />
+          <mxGeometry x="150" y="90" width="43.45" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-10" value="RF Module" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="80" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-11" value="Transmiter&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;/&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Receiver" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="40" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=130;entryDy=0;entryPerimeter=0;" edge="1" parent="VSblfYa6hqs7yA2SXt9l-4" target="VSblfYa6hqs7yA2SXt9l-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="110" as="sourcePoint" />
+            <mxPoint x="430" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="435" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="40" y="360" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-14" value="GSM MODEM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="70" y="470" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-15" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.loop_antenna" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="80" y="365" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=110;entryDy=0;entryPerimeter=0;" edge="1" parent="VSblfYa6hqs7yA2SXt9l-4" target="VSblfYa6hqs7yA2SXt9l-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="440" as="sourcePoint" />
+            <mxPoint x="270" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="415" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
