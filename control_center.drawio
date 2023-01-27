@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T08:54:48.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.12" etag="o1p7XPJR7wwJGuvgBV5l" type="github"><diagram name="Page-1" id="AnMOG2GN0dtqPrZKWgCM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-27T09:30:48.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QKKPDUmsgdXWz-pfQxyM" version="20.8.12" type="github">
+  <diagram name="Page-1" id="AnMOG2GN0dtqPrZKWgCM">
+    <mxGraphModel dx="978" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-4" value="Control Center" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="640" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-5" value="ARDUINO UNO R3" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.logic_gates.qfp_ic;labelNames=a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,a1,b1,c1,d1,e1,f1,g1,h1,i1,j1,k1,l1,m1,n1;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="305" y="150" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="50" y="80" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VSblfYa6hqs7yA2SXt9l-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_2;" vertex="1" parent="VSblfYa6hqs7yA2SXt9l-4">
+          <mxGeometry x="70" y="90" width="39.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
